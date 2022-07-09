@@ -91,9 +91,7 @@ export default function Nav() {
         </div>
         <i className='item dark-item mode' onClick={() => {localStorage.setItem("dark", String(!mode));setMode(!mode);}}>{emoji}</i>
       </div>
-      <div className="pl-[4.5rem] w-[100%] h-[100%] text-white bg-gray-900 text-area pt-2">
-        < App />
-      </div>
+      <App />
     </header>
   );
 }
