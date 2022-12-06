@@ -1,8 +1,8 @@
-<div style="width: 100%; min-width: 100%; display: flex;">
+<div style="width:100%; min-width:100%; display:flex;">
   <img
        src="https://avatars.githubusercontent.com/u/84524025?s=96&v=4"
        alt="AHQ's Logo"
-       style="border-radius: 50%;"
+       style="border-radius:50%;"
   />
 </div>
 
